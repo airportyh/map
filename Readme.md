@@ -1,7 +1,7 @@
 
 # map
 
-  Map utility (TOBY WAS HERE) blah blah..
+  Map utility (TOBY WAS HERE) blah blah blah.
 
 ## Installation
 
